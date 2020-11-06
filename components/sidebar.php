@@ -16,6 +16,12 @@
   <!-- Custom styles for this template -->
   <link href="includes/css/main.css" rel="stylesheet">
   <link rel="icon" type="image/png" href="assets/digapanel-favicon.png"/>
+  <style>
+  .is-fullwidth{
+    width: 100%;
+    height: auto;
+  }
+  </style>
 </head>
 
 <body>
@@ -28,7 +34,7 @@
       <div class="list-group list-group-flush mt-5">
         <a href="#" class="list-group-item list-group-item-action bg-light">Sayfalar</a>
         <a href="#" class="list-group-item list-group-item-action bg-light">Seo Optimizasyonu</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Ayarlar</a>
+        <a href="settings.php" class="list-group-item list-group-item-action bg-light">Ayarlar</a>
       </div>
     </div>
     <!-- /#sidebar-wrapper -->
