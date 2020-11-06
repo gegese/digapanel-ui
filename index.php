@@ -68,7 +68,7 @@
 					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
 				</div>
 				<div class="col-md-10">
-					<h5>DESTEK</h5>
+					<h5>DESTEK Köstek</h5>
 					<p>
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
 					</p>
