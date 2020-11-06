@@ -35,6 +35,7 @@
         <a href="#" class="list-group-item list-group-item-action bg-light">Sayfalar</a>
         <a href="#" class="list-group-item list-group-item-action bg-light">Seo Optimizasyonu</a>
         <a href="settings.php" class="list-group-item list-group-item-action bg-light">Ayarlar</a>
+        <a href="support.php" class="list-group-item list-group-item-action bg-light">Destek</a>
       </div>
     </div>
     <!-- /#sidebar-wrapper -->

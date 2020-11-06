@@ -5,7 +5,7 @@
 
 <center>
 	<h1 class="mt-5">MÜŞTERİ ÜNVANI</h1>
-	<h4 class="mt-2">Kontrol Paneli</h4>
+	<h4 class="mt-2">Genel Ayarlar</h4>
 </center>
 
 <div class="row has-max-width mt-2">

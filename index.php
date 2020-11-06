@@ -64,7 +64,7 @@
 		</a>
 	</div>
 	<div class="col-sm-12 col-md-6 mt-4">
-		<a class="hoverable-box-link" href="#">
+		<a class="hoverable-box-link" href="support.php">
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
