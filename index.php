@@ -19,7 +19,8 @@
 				<div class="col-md-10">
 					<h5>SAYFALAR</h5>
 					<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
+					Düzenlenebilir alanlara sahip bütün sayfaların listesine bu sekmeden ulaşabilirsiniz.<br>
+					Düzenlemek istediğiniz sayfanın üzerine tıklayarak düzenlenebilir detaylara ulaşabilirsiniz.
 					</p>
 				</div>
 			</div>
@@ -36,7 +37,8 @@
 				<div class="col-md-10">
 					<h5>AYARLAR</h5>
 					<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
+					Site başlığı, tagline, favicon vb. genel site ayarlarını buradan yapabilirsiniz.<br>
+					Yaptığınız düzenlemeler, güncelle butonuna tıklandıktan sonra aktif olacaktır.
 					</p>
 				</div>
 			</div>
@@ -51,9 +53,10 @@
 					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
 				</div>
 				<div class="col-md-10">
-					<h5>SEO OPTİMİZASYONU</h5>
+					<h5>SEO AYARLARI</h5>
 					<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
+					SEO(Search Engine Optimization) için temel teşkil eden başlıklara bu menüden ulaşabilirsiniz.<br>
+					Başlıkların aktiflik durumunu kontrol edebilir ve düzenleyebilirsiniz.
 					</p>
 				</div>
 			</div>
@@ -68,9 +71,10 @@
 					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
 				</div>
 				<div class="col-md-10">
-					<h5>DESTEK Köstek</h5>
+					<h5>DESTEK</h5>
 					<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
+					DigaPanel en kolay ve en doğru şekilde sitenizi yönetmeniz için tasarlanmıştır.<br>
+					Buna rağmen olası sorunlar için buradan hızlıca destek talebi oluşturabilirsiniz.
 					</p>
 				</div>
 			</div>
