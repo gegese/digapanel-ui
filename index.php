@@ -1,6 +1,6 @@
 <?php
 	include 'components/sidebar.php';
-	include 'components/navbar.php'; 
+	include 'components/navbar.php';
 ?>
 
 <center>
@@ -14,7 +14,7 @@
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
-					<img src="assets/digapanel-favicon.png">
+					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
 				</div>
 				<div class="col-md-10">
 					<h5>SAYFALAR</h5>
@@ -22,7 +22,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
 					</p>
 				</div>
-			</div>	
+			</div>
 			</div>
 		</a>
 	</div>
@@ -31,7 +31,7 @@
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
-					<img src="assets/digapanel-favicon.png">
+					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
 				</div>
 				<div class="col-md-10">
 					<h5>AYARLAR</h5>
@@ -39,7 +39,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
 					</p>
 				</div>
-			</div>	
+			</div>
 			</div>
 		</a>
 	</div>
@@ -48,7 +48,7 @@
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
-					<img src="assets/digapanel-favicon.png">
+					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
 				</div>
 				<div class="col-md-10">
 					<h5>SEO OPTİMİZASYONU</h5>
@@ -56,7 +56,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
 					</p>
 				</div>
-			</div>	
+			</div>
 			</div>
 		</a>
 	</div>
@@ -65,7 +65,7 @@
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
-					<img src="assets/digapanel-favicon.png">
+					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
 				</div>
 				<div class="col-md-10">
 					<h5>DESTEK</h5>
@@ -73,13 +73,13 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque placerat eros sed ultricies pretium. Suspendisse imperdiet id ipsum quis pretium.
 					</p>
 				</div>
-			</div>	
+			</div>
 			</div>
 		</a>
 	</div>
 </div>
 <br><br><br><br>
-	
+
 
 <?php
     include 'components/footer.php';
