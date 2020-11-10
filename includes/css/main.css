@@ -1,3 +1,16 @@
 @import "sidebar.css";
 @import "mutual.css";
 @import "diga-card.css";
+
+.has-gradient {
+  /* background: -moz-linear-gradient(top, #5da8f9 0%, #1559a4 100%);
+	background:
+	background: linear-gradient(to bottom, #5da8f9 0%, #1559a4 100%);
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	background-clip: text;
+  -webkit-text-fill-color: transparent; */
+  background: linear-gradient(0deg, rgba(29,99,113,1) 0%, rgba(0,128,154,0.5732668067226891) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

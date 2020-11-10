@@ -14,7 +14,8 @@
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
-					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
+					<!-- <img src="assets/digapanel-favicon.png" width="32px" height="32px"> -->
+					<i class="fas fa-file fa-3x has-gradient"></i>
 				</div>
 				<div class="col-md-10">
 					<h5>SAYFALAR</h5>
@@ -32,7 +33,8 @@
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
-					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
+					<!-- <img src="assets/digapanel-favicon.png" width="32px" height="32px"> -->
+					<i class="fas fa-cogs fa-3x has-gradient"></i>
 				</div>
 				<div class="col-md-10">
 					<h5>AYARLAR</h5>
@@ -50,7 +52,8 @@
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
-					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
+					<!-- <img src="assets/digapanel-favicon.png" width="32px" height="32px"> -->
+					<i class="fas fa-search-plus fa-3x has-gradient"></i>
 				</div>
 				<div class="col-md-10">
 					<h5>SEO AYARLARI</h5>
@@ -68,7 +71,8 @@
 			<div class="diga-card">
 			<div class="row">
 				<div class="col-md-2 d-flex align-items-center justify-content-center">
-					<img src="assets/digapanel-favicon.png" width="32px" height="32px">
+					<!-- <img src="assets/digapanel-favicon.png" width="32px" height="32px"> -->
+					<i class="fas fa-info-circle fa-3x has-gradient"></i>
 				</div>
 				<div class="col-md-10">
 					<h5>DESTEK</h5>

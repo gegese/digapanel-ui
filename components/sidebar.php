@@ -12,7 +12,7 @@
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
+  <script src="https://kit.fontawesome.com/01a8b40407.js" crossorigin="anonymous"></script>
   <!-- Custom styles for this template -->
   <link href="includes/css/main.css" rel="stylesheet">
   <link rel="icon" type="image/png" href="assets/digapanel-favicon.png"/>
